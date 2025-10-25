@@ -1,0 +1,3 @@
+- [x] Update first.html: Fix HTML structure (move h1 to body, link CSS in head), add student registration fields (Full Name, Email, Password, Confirm Password, Phone Number, Date of Birth, Gender, Address), change form action to "#" and submit button to "Register".
+- [x] Update style.css: Add basic styling for the form (center it, add padding, borders, background color), ensure .container is applied to the form wrapper.
+- [x] Test the form by opening first.html in browser to verify it looks and functions properly.
